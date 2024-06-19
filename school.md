@@ -33,3 +33,15 @@
     110A, 110B, 153, 604, 740, 753, 921, 5712, 5714, 6712, 7016, 7016, 7613, 8153번
     - `마을` 버스  
     마포07, 마포11, 마포12, 마포14번
+
+## 학과
+
+### Global Korean Studies (Korean Studies in English)
+
+![학과](images\u3_1.png)
+
+- **Location** : Xavier Hall #408  
+- **Telephone** : +82 2 3274 4882  
+- **E-mail** : <gkssg@sogang.ac.kr>  
+- **Homepage** : <http://gks.sogang.ac.kr>
+
