@@ -38,7 +38,7 @@
 
 ### Global Korean Studies (Korean Studies in English)
 
-![학과](images\u3_1.png)
+![학과](images/u3_1.png)
 
 - **Location** : Xavier Hall #408  
 - **Telephone** : +82 2 3274 4882  
